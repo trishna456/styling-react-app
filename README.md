@@ -21,11 +21,13 @@ To get started with the React Styling Showcase, follow these steps:
 
    ```bash
    git clone https://github.com/trishna456/stylingReact.git
+   ```
 
 2. Navigate to the project directory:
 
    ```bash
     cd stylingReact
+   ```
 
 3. Install dependencies:
 
